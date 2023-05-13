@@ -18,10 +18,9 @@ Follow these steps to get started with Blue Dragon:
 
 1. Clone the repository: `git clone https://github.com/MySillyDreams/BlueDragon.git`
 2. Navigate to the project directory: `cd BlueDragon`
-3. Explore the `docs` folder for comprehensive documentation on usage and customization.
-4. Integrate Blue Dragon into your project by importing the desired UI elements and functionalities.
-5. Customize the elements and functionalities as needed, using the provided examples as a guide.
-6. Join the MySillyDreams community to share your experiences, contribute to the project, and collaborate with other developers.
+3. Integrate Blue Dragon into your project by importing the desired UI elements and functionalities.
+4. Customize the elements and functionalities as needed, using the provided examples as a guide.
+5. Join the MySillyDreams community to share your experiences, contribute to the project, and collaborate with other developers.
 
 ## License
 
